@@ -130,3 +130,11 @@ C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\ProjetoAPI\bin\Debug\net9.0\Swashb
 C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\ProjetoAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\ProjetoAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\ProjetoAPI\obj\Debug\net9.0\ProjetoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wiul\Documents\DIO\DesafioProjetoAPI\projetoapi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

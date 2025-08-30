@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {}
+    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {
+    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj",
         "projectName": "ProjetoAPI",
-        "projectPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj",
         "packagesPath": "C:\\Users\\wiul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\obj\\",
+        "outputPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wiul\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.3, )"
