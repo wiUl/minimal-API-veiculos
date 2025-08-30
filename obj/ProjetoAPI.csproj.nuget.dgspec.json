@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj": {}
+    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj": {
+    "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
         "projectName": "ProjetoAPI",
-        "projectPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\ProjetoAPI.csproj",
+        "projectPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\ProjetoAPI.csproj",
         "packagesPath": "C:\\Users\\wiul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\projetoapi\\obj\\",
+        "outputPath": "C:\\Users\\wiul\\Documents\\DIO\\DesafioProjetoAPI\\ProjetoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wiul\\AppData\\Roaming\\NuGet\\NuGet.Config"
